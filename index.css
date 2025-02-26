@@ -1,3 +1,6 @@
-.body{
-    background-color: blueviolet;
+html{
+    background-image : url(https://www.pexels.com/photo/white-painted-wall-1939485/) ;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;   
 }
